@@ -21,4 +21,3 @@ adb shell rm -rf /data/data/com.vng.pubgmobile/lib/libGVoicePlugin.so
 adb shell rm -rf /data/data/com.pubg.krmobile/lib/libGVoicePlugin.so
 adb shell rm -rf /data/data/com.tencent.ig/lib/libAkAudioVisiual.so
 echo Cleanup done.
-pause
